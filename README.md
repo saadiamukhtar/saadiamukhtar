@@ -1,7 +1,8 @@
 
 ## Hello World 👋 , I am Sadia
 
-Hi, I am Sadia Mukhtar. I am currently pursuing B.Tech in Information Technology. I am an Alpha MLSA and a community lead at HackforCode. I spend my time practicing DSA and currently getting my hands dirty on Frontend Development. Always ready to talk about anything related to tech.
+Hi, I am Sadia Mukhtar. I am currently pursuing B.Tech in Information Technology. I am a Beta Microsoft Learn Student Ambassasdor and a community lead at HackforCode. I spend my time practicing DSA and currently getting my hands dirty on Frontend Development. Always ready to talk about anything related to tech.
+ 
 
 ### Talking about Personal Stuffs
 
