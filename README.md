@@ -8,7 +8,7 @@ Hi, I am Sadia Mukhtar. I am currently pursuing B.Tech in Information Technology
 
 *   🌱 I am currently working on my personal projects.
     
-*   🚀 I am currently learning Frontend Development.
+*   🚀 I am currently learning Frontend Development and brainstorming on DSA problems.
     
 *   📝 I am a content creator at @[HackForCode](@HackForCode)
     
@@ -26,6 +26,8 @@ Twitter : [https://twitter.com/Sadia-Mukhtar](https://twitter.com/Sadiatwts?t=mr
 LinkedIn : [https://www.linkedin.com/in/sadia-mukhtar](https://www.linkedin.com/in/sadia-mukhtar-266421213)
 
 Mail : [sadiamukhtar445@gmail.com](http://sadiamukhtar445@gmail.com)
+
+
 
 <!--
 **saadiamukhtar/saadiamukhtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
