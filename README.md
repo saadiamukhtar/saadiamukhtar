@@ -19,7 +19,7 @@ Hi, I am Sadia Mukhtar. I am currently pursuing B.Tech in Information Technology
 
 ### Get In Touch
 
-Twitter : [https://twitter.com/Sadia-Mukhtar](https://twitter.com/SadiaMu58192297?t=_Olq1Zp5E_kJAhcfvWY1kQ&s=08)
+Twitter : [https://twitter.com/Sadia-Mukhtar](https://twitter.com/Sadiatwts?t=mri01F2Mhqpb2PEnoIjY_w&s=09)
 
 LinkedIn : [https://www.linkedin.com/in/sadia-mukhtar](https://www.linkedin.com/in/sadia-mukhtar-266421213)
 
